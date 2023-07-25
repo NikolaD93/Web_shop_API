@@ -1,2 +1,2 @@
 # Web_shop_API
-This an API made for a Web Shop project.
+This is an API made for the Web Shop project.
